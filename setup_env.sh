@@ -14,7 +14,7 @@ To edit the standard background in Fedora 17 change this file:
 /usr/share/backgrounds/beefy-miracle/default/beefy-miracle.xml
 "
 
-sudo yum install emacs gnome-tweak-tool starter-kit htop mysql mysql-devel mysql-server postgresql postgresql-devel R R-devel -y
+sudo yum install emacs gnome-tweak-tool starter-kit htop mysql mysql-devel mysql-server postgresql postgresql-devel R R-devel libquicktime.x86_64 -y
 
 #Install spotify!  This will almost certainly start breaking eventually 
 #as it is only for a specific version.  Also, the final rpm you need to
